@@ -30,4 +30,4 @@ It demonstrates the use of **functions, lists, dictionaries, and conditional sta
 ## How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUsername/student-management-system.git
+   git clone https://github.com/keerthidevandla11-ui/student-management-system.git
